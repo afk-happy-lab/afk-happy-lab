@@ -5,15 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/the_happyhaze" target="blank"><img src="https://img.shields.io/twitter/follow/the_happyhaze?logo=twitter&style=for-the-badge" alt="the_happyhaze" /></a> </p>
 
-- 🔭 I’m currently working on **my first project**
+<!-- Side-by-Side Text and GIF Section -->
+<!-- Side-by-Side Text and GIF Section -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="40%" />
 
-- 🌱 I’m currently learning **programming languages: C/C++**
+<ul>
+  <li>💬 About me: <b>Hi, I'm Happy. I'm a B.Tech CSE student at USICT.<br>Currently focusing on mastering my college coursework,<br>getting my coding fundamentals down, and building<br>small projects along the way.</b></li>
+  <br>
+  <li>🔭 I'm currently learning <b>programming languages: C/C++</b><br>and working on my initial projects.</li>
+  <br>
+  <li>📫 Reach me at: <b>happyyadav2508@gmail.com</b></li>
+  <br>
+  <li>⚡ Fun fact <b>Coding in light mode is a crime.</b></li>
+</ul>
 
-- 💬 Ask me about **Hi, I'm Happy.I'm a B.Tech CSE student at USICT. Currently focusing on mastering my college coursework, getting my coding fundamentals down, and building small projects along the way.**
-
-- 📫 How to reach me **happyyadav2508@gmail.com**
-
-- ⚡ Fun fact **Coding in light mode is a crime.**
+<br clear="right" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +34,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afk-happy-lab&show_icons=true&locale=en&layout=compact" alt="afk-happy-lab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afk-happy-lab&" alt="afk-happy-lab" /></p>
+
+<br>
+<br>
+
+<img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="48%" />
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="48%" />
+
+<br clear="all" />
